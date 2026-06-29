@@ -1,0 +1,3 @@
+Baseline (noisy) PSNR: 9.36 dB
+Denoised PSNR: 18.95 dB
+Improvement: +9.59 dB
